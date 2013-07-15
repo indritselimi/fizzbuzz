@@ -1,6 +1,7 @@
 require "rspec"
 require "fizz_buzz"
 
+
 describe FizzBuzz do
 
   let(:childrens) { FizzBuzz.new }
